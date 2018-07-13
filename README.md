@@ -18,6 +18,10 @@ OR
 
 ## Build :
 
+Before all :
+
+```npm install```
+
 ### With cmake-js
 
 run in source dir
